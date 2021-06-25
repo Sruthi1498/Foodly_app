@@ -1,0 +1,19 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+
+    </style>
+
+    <style name="CustomChipStyle" parent="Widget.MaterialComponents.Chip.Filter">
+    <item name="chipBackgroundColor" >@color/tomato_red</item>
+    <item name="android:textColor">@color/chips_text_color</item>
+    <item name="chipIconTint">@color/tomato_red</item>
+        <item name="rippleColor">@color/white</item>
+    </style>
+</resources>

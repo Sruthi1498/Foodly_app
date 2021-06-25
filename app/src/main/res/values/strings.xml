@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Foodly</string>
+    <string name="open">open_drawer</string>
+    <string name="close">close_drawer</string>
+</resources>

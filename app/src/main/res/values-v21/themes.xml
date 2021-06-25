@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AlertDialogCustom" parent="Theme.MaterialComponents.DayNight.Dialog.Alert">
+        <item name="android:colorPrimary">#F44336</item>
+    </style>
+</resources>
